@@ -1,2 +1,13 @@
 this is a sample repository for my practice :)
 changed!!
+
+手順
+githubでfork
+git clone url
+git checkout -b b1
+git push origin b1:b1
+githubでpull request
+
+git remote add upstream url
+git pull upstream master
+git rebase master
