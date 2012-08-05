@@ -1,0 +1,1 @@
+[ProGit読んでてrequest-pullコマンドあることを知った](http://git-scm.com/book/ja/Git-%E3%81%A7%E3%81%AE%E5%88%86%E6%95%A3%E4%BD%9C%E6%A5%AD-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%B8%E3%81%AE%E8%B2%A2%E7%8C%AE#小規模な公開プロジェクト)のでテスト
